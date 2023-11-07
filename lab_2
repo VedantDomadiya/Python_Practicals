@@ -1,0 +1,21 @@
+# -*- coding: utf-8 -*-
+"""lab-2.ipynb
+    https://colab.research.google.com/drive/1UaEDf8EEl4EcSjFvWZjNZWq4Pl4fCQZN
+"""
+1. Demonstrate about fundamental Data types in Python Programming. (i.e., int, float,
+complex, bool and string types).
+2. Demonstrate the working of following functions in Python.
+i) type( ) ii) range( ) iii) Base Conversion Function
+3. Demonstrate the following Operators in Python with suitable examples.
+    1. Arithmetic operators.
+    2. Relational or Comparison operators.
+    3. Equality operators.    
+    4. Logical operators.
+    5. Bitwise operators.
+    6. Shift operators.
+    7. Assignment operators.
+    8. Ternary operator. (or) Conditional operator.
+    9. Special operators:
+        a. Identity operator.
+        b. Membership operator.
+    10. Operator precedence.
