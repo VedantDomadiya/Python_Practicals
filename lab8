@@ -1,1 +1,19 @@
 https://colab.research.google.com/drive/1T4KRWLyHGdQ_Oxbvp4SFwwgqTeGCB5hH?usp=sharing
+
+
+1. Write a Python Program for Linear Search both recursive and non recursive
+approach.
+2. Write a Python Program for Binary Search both recursive and non recursive
+approach.
+3. Write a Python Program to implement Selection Sort.
+4. Write a Python Program to implement Merge Sort.
+5. Write a Python Program to implement Tim Sort.
+6. Write a Python program to create a singly linked list, append some items and iterate
+through the list.
+7. For the same list created in Q.6
+  i) Find the size of a singly linked list.
+  ii) Search a specific item
+  iii) Access a specific item using index value
+  iv) Set a new value of an item in a singly linked list using index value.
+  v) Delete the first item from a singly linked list.
+  vi) Delete the last item from a singly linked list.
