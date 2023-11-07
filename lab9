@@ -1,2 +1,29 @@
 collab link
 https://colab.research.google.com/drive/1ZfE-IYmHuJJ_rUWR9p3Tjxxo9NR1wYTZ#scrollTo=kPxYt1cpMtVm
+
+
+1. Write a Python program to create a calculator class. Include methods for basic
+arithmetic operations.
+2. Write a Python program to create a class representing a Circle. Include methods to
+calculate its area and perimeter.
+3. Write a Python program to create a class that represents a shape. Include methods
+to calculate its area and perimeter. Implement subclasses for different shapes like
+circle, triangle, and square.
+4. Write a python program to implement method overloading. If there is no argument
+then it returns 0. And, If we have one argument then it returns the square of the value
+and assumes you are computing the area of a square. Also, if we have two
+arguments then it returns the product of the two values and assumes you are
+computing the area of a rectangle. If we have three arguments then it should return
+the area of the triangle.
+
+5. Write a program to implement an abstract method.
+  1. Create an abstract class compute
+  2. Declare an abstract method calculate
+  3. Now in concrete class Square write the definition of calculate method which will
+  calculate the square of a given number.
+  4. Now in concrete class Cube write the definition of calculate method which will
+  calculate the cube of a given number.
+
+6 . Write a python program to implement operator overloading for adding two objects.
+7. Explain Encapsulation with the help of an example. (Public private and protected access
+modifiers)
